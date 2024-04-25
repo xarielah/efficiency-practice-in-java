@@ -2,7 +2,7 @@
 /**
  * @see https://kef-code.vercel.app/courses/intro-to-computer-science/efficiency/findSmallestSubArrayLen
  */
-public class FindSmallestSubarray {
+public class FindSmallestSubarrayLen {
     public static void main(String[] args) {
         int[] arr = { 2, 6, 1, 9, 7, 3, 1, 4, 1, 8 };
         System.out.println(findSmallestSubarrayLen(arr, 15));
